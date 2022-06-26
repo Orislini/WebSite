@@ -1,0 +1,33 @@
+      body{
+  background-color: #97f7c0;
+  color: black;
+  display:flex;
+  flex-direction:column;
+  max-height: 100%;
+  max-width: 1000px;
+  margin: auto;
+  border: solid;
+  padding: 90 px 100px 40px;
+  align-items: center;
+  
+
+
+.lol{
+  margin-right: 5px;
+  margin-left: 5px;
+}
+nav{
+  background-color: #1c36fd;
+  margin: 0px;
+}
+nav a{
+display: block;
+padding: 14px 16px;
+color: #b8ff4d;
+float: left;
+text-decoration: none;
+}
+
+.nav a:hover{
+  background-color: skyblue;
+}
